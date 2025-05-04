@@ -19,20 +19,18 @@
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰資訊,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 鳳凰資訊,http://218.202.220.2:5000/nn_live.ts?id=FHZX
-鳳凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 鳳凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+鳳凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 無線新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 無線新聞台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-無線新聞台,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
@@ -47,8 +45,8 @@
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
-凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
@@ -57,10 +55,10 @@
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻台(北美),https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧經典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 黃金翡翠台,http://tl.061833.xyz/tl/null-2
+纬来体育,http://api2.52tb.xyz/info?id=375&token=20230120rdbtgv
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://60.248.77.83/sat/tv721
@@ -86,7 +84,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻频道,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频道,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻频道,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻频道,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无线翡翠频道,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
 无线翡翠频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线华丽频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
@@ -105,8 +102,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
@@ -293,4 +290,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-05-04 05:39:19,http://122.117.71.103:8540/中天新闻.m3u8
+2025-05-05 05:40:38,http://122.117.71.103:8540/中天新闻.m3u8

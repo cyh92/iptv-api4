@@ -60,7 +60,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线翡翠频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 无线华丽频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-龙华戏剧频道,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -215,6 +214,7 @@ tvbs闽南频道,url
 龙祥时代频道,url
 东森电影频道,url
 东森洋片频道,url
+龙华戏剧频道,url
 龙华洋片频道,url
 龙华偶像频道,url
 华纳电影频道,url
@@ -259,4 +259,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-05-07 05:41:42,http://122.117.71.103:8540/中天新闻.m3u8
+2025-05-08 05:40:37,http://122.117.71.103:8540/中天新闻.m3u8

@@ -111,6 +111,8 @@ http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台(HK).png" group-title="港·澳·台",千禧經典台(HK)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="港·澳·台",美亞電影台(HK)
+https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="港·澳·台",黃金翡翠台
 http://tl.061833.xyz/tl/null-2
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="港·澳·台",龍華電影台
@@ -284,8 +286,6 @@ url
 #EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本全天新聞.png" group-title="🈳无结果频道",日本全天新聞
 url
 #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="🈳无结果频道",明珠剧集台(北美)
-url
-#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="🈳无结果频道",美亞電影台(HK)
 url
 #EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠剧集台(北美).png" group-title="🈳无结果频道",翡翠剧集台(北美)
 url
@@ -563,5 +563,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-05-19 05:39:37
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-05-20 05:40:39
 http://122.117.71.103:8540/中天新闻.m3u8

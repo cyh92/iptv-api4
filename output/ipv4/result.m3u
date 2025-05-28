@@ -28,9 +28,9 @@ rtmp://f13h.mine.nu:1935:1935/sat/tv331
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰資訊.png" group-title="港·澳·台",鳳凰資訊
 http://218.202.220.2:5000/nn_live.ts?id=FHZX
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港.png" group-title="港·澳·台",鳳凰香港
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
-#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港.png" group-title="港·澳·台",鳳凰香港
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰香港.png" group-title="港·澳·台",鳳凰香港
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港·澳·台",翡翠台
 rtmp://sy.ecoheze.com/live/gdfc
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港·澳·台",翡翠台
@@ -42,9 +42,9 @@ rtmp://szgasszyaxtgl.szius.com/live/gdfc
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://218.202.220.2:5000/nn_live.ts?id=FHZX
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港·澳·台",凤凰香港
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港·澳·台",凤凰香港
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
 rtmp://116.93.98.236/sat/tv721.flv
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
@@ -78,9 +78,9 @@ rtmp://9hv9.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-#EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
@@ -91,12 +91,6 @@ http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/s
 http://122.117.71.103:8540/中天新闻.m3u8
 #EXTINF:-1 tvg-name="中天新闻频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻频道.png" group-title="港闽频道",中天新闻频道
 http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-#EXTINF:-1 tvg-name="RTHK-33频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-33频道.png" group-title="港闽频道",RTHK-33频道
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK-34频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-34频道.png" group-title="港闽频道",RTHK-34频道
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="RTHK-35频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-35频道.png" group-title="港闽频道",RTHK-35频道
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="中视闽南频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南频道.png" group-title="港闽频道",中视闽南频道
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="中视闽南频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南频道.png" group-title="港闽频道",中视闽南频道
@@ -453,6 +447,12 @@ url
 url
 #EXTINF:-1 tvg-name="RTHK-32频陆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-32频陆.png" group-title="🈳无结果频道",RTHK-32频陆
 url
+#EXTINF:-1 tvg-name="RTHK-33频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-33频道.png" group-title="🈳无结果频道",RTHK-33频道
+url
+#EXTINF:-1 tvg-name="RTHK-34频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-34频道.png" group-title="🈳无结果频道",RTHK-34频道
+url
+#EXTINF:-1 tvg-name="RTHK-35频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK-35频道.png" group-title="🈳无结果频道",RTHK-35频道
+url
 #EXTINF:-1 tvg-name="香港面包频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港面包频道.png" group-title="🈳无结果频道",香港面包频道
 url
 #EXTINF:-1 tvg-name="香港_C+_频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港_C+_频道.png" group-title="🈳无结果频道",香港_C+_频道
@@ -493,5 +493,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-05-28 05:43:22
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-05-29 05:42:48
 http://122.117.71.103:8540/中天新闻.m3u8

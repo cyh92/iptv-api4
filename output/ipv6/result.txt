@@ -8,6 +8,7 @@
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 鳳凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
@@ -26,6 +27,7 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
+凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 凤凰中文,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
@@ -37,6 +39,7 @@
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 千禧經典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 美亞電影台(HK),https://live.tvfix.org/live/mydy/index.m3u8
 黃金翡翠台,http://tl.061833.xyz/tl/null-2
@@ -67,8 +70,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 天映经典频道,http://tl.061833.xyz/tl/null-1
 龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -100,7 +103,6 @@ TVBS-新聞台,url
 無線衛星新聞台,url
 翡翠台4K,url
 凤凰香港,url
-TVB Plus,url
 TVB,url
 tvN,url
 娛樂新聞台(HK),url
@@ -257,4 +259,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-05-29 05:42:48,http://122.117.71.103:8540/中天新闻.m3u8
+2025-05-30 05:42:24,http://122.117.71.103:8540/中天新闻.m3u8

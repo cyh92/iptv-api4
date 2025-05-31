@@ -18,19 +18,14 @@ TVBS-新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 鳳凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 無線新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-無線新聞台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 無線新聞台,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
@@ -42,8 +37,6 @@ TVBS-新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 无线新闻台(北美),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻台(北美),https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻台(北美),https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
@@ -59,14 +52,69 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 
 闽南4Gtv,#genre#
+中天新闻4Gtv,http://mianti.pendy.dpdns.org/of-4gtv-4gtv009/index.m3u8?proxy=true
+东森新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv152/index.m3u8?proxy=true
+tvbs新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv072/index.m3u8?proxy=true
+寰宇新闻4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn14/index.m3u8?proxy=true
+非凡新闻4Gtv,http://mianti.pendy.dpdns.org/4gtv-4gtv010/index.m3u8?proxy=true
+闽镜新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻4Gtv,http://mianti.pendy.dpdns.org/li-litv-ftv13/index.m3u8?proxy=true
+中视新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv074/index.m3u8?proxy=true
+华视新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv052/index.m3u8?proxy=true
+台视新闻4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv051/index.m3u8?proxy=true
+民视闽南4Gtv,http://mianti.pendy.dpdns.org/4gtv-4gtv002/index.m3u8?proxy=true
+中视闽南4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv040/index.m3u8?proxy=true
+华视闽南4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv041/index.m3u8?proxy=true
+台视闽南4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv066/index.m3u8?proxy=true
+寰宇闽南4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv156/index.m3u8?proxy=true
+tvbs闽南4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv073/index.m3u8?proxy=true
+民视台湾4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv001/index.m3u8?proxy=true
+民视第一4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv003/index.m3u8?proxy=true
+民视旅游4Gtv,http://mianti.pendy.dpdns.org/li-litv-ftv07/index.m3u8?proxy=true
+民视影剧4Gtv,http://mianti.pendy.dpdns.org/li-litv-ftv09/index.m3u8?proxy=true
+民视综艺4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv004/index.m3u8?proxy=true
+中视菁采4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv064/index.m3u8?proxy=true
+中视经典4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv080/index.m3u8?proxy=true
+台视财经4Gtv,http://mianti.pendy.dpdns.org/4gtv-4gtv056/index.m3u8?proxy=true
+公视戏剧4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv042/index.m3u8?proxy=true
+闽南戏剧4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn22/index.m3u8?proxy=true
+国际财经4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv104/index.m3u8?proxy=true
+东森财经4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv153/index.m3u8?proxy=true
+tvbs精采4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv067/index.m3u8?proxy=true
+tvbs欢乐4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv068/index.m3u8?proxy=true
+八大精彩4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv034/index.m3u8?proxy=true
+八大综艺4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv039/index.m3u8?proxy=true
+爱达娱乐4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv070/index.m3u8?proxy=true
+靖洋戏剧4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv045/index.m3u8?proxy=true
+靖洋卡通4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv057/index.m3u8?proxy=true
+靖天卡通4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv044/index.m3u8?proxy=true
+靖天综合4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv046/index.m3u8?proxy=true
+靖天日本4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv047/index.m3u8?proxy=true
+靖天欢乐4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv054/index.m3u8?proxy=true
+靖天映画4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天戏剧4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖天电影4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv061/index.m3u8?proxy=true
+靖天育乐4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv062/index.m3u8?proxy=true
+靖天国际4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv063/index.m3u8?proxy=true
+靖天资讯4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv065/index.m3u8?proxy=true
+龙华卡通4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn01/index.m3u8?proxy=true
+龙华日韩4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn11/index.m3u8?proxy=true
+龙华偶像4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn12/index.m3u8?proxy=true
+龙华电影4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn03/index.m3u8?proxy=true
+龙华戏剧4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn18/index.m3u8?proxy=true
+龙华经典4Gtv,http://mianti.pendy.dpdns.org/li-litv-longturn21/index.m3u8?proxy=true
+阿里郎台4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv079/index.m3u8?proxy=true
+达文西台4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv018/index.m3u8?proxy=true
+猪哥亮厅4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv006/index.m3u8?proxy=true
+亚洲旅游4Gtv,http://mianti.pendy.dpdns.org/li-4gtv-4gtv076/index.m3u8?proxy=true
+美国之音4Gtv,http://mianti.pendy.dpdns.org/li-litv-ftv03/index.m3u8?proxy=true
+半岛新闻4Gtv,http://mianti.pendy.dpdns.org/li-litv-ftv10/index.m3u8?proxy=true
 
 港闽频道,#genre#
 凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯频道,https://live.tvfix.org/live/fwzx/index.m3u8
 无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻频道,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻频道,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频道,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻频道,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻频道,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
@@ -93,6 +141,7 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线功夫频道,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 无线星河频粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
@@ -132,63 +181,6 @@ Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
-中天新闻4Gtv,url
-东森新闻4Gtv,url
-tvbs新闻4Gtv,url
-寰宇新闻4Gtv,url
-非凡新闻4Gtv,url
-闽镜新闻4Gtv,url
-民视新闻4Gtv,url
-中视新闻4Gtv,url
-华视新闻4Gtv,url
-台视新闻4Gtv,url
-民视闽南4Gtv,url
-中视闽南4Gtv,url
-华视闽南4Gtv,url
-台视闽南4Gtv,url
-寰宇闽南4Gtv,url
-tvbs闽南4Gtv,url
-民视台湾4Gtv,url
-民视第一4Gtv,url
-民视旅游4Gtv,url
-民视影剧4Gtv,url
-民视综艺4Gtv,url
-中视菁采4Gtv,url
-中视经典4Gtv,url
-台视财经4Gtv,url
-公视戏剧4Gtv,url
-闽南戏剧4Gtv,url
-国际财经4Gtv,url
-东森财经4Gtv,url
-tvbs精采4Gtv,url
-tvbs欢乐4Gtv,url
-八大精彩4Gtv,url
-八大综艺4Gtv,url
-爱达娱乐4Gtv,url
-靖洋戏剧4Gtv,url
-靖洋卡通4Gtv,url
-靖天卡通4Gtv,url
-靖天综合4Gtv,url
-靖天日本4Gtv,url
-靖天欢乐4Gtv,url
-靖天映画4Gtv,url
-靖天戏剧4Gtv,url
-靖天电影4Gtv,url
-靖天育乐4Gtv,url
-靖天国际4Gtv,url
-靖天资讯4Gtv,url
-龙华卡通4Gtv,url
-龙华日韩4Gtv,url
-龙华偶像4Gtv,url
-龙华电影4Gtv,url
-龙华戏剧4Gtv,url
-龙华经典4Gtv,url
-阿里郎台4Gtv,url
-达文西台4Gtv,url
-猪哥亮厅4Gtv,url
-亚洲旅游4Gtv,url
-美国之音4Gtv,url
-半岛新闻4Gtv,url
 凤凰香港频国,url
 有线新闻频道,url
 有线综讯频道,url
@@ -265,4 +257,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-05-31 05:41:35,http://122.117.71.103:8540/中天新闻.m3u8
+2025-06-01 05:40:25,http://122.117.71.103:8540/中天新闻.m3u8

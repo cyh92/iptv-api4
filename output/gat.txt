@@ -67,7 +67,6 @@ TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
 娛樂新聞台(HK),https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 美亞電影台(HK),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 黃金翡翠台,http://tl.061833.xyz/tl/null-2
-龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -108,7 +107,6 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
-龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -165,6 +163,7 @@ tvN,url
 靖天電影台,url
 龍華日韓台,url
 龍華經典台,url
+龍華電影台,url
 NHK World-Japan,url
 NHK東京総合,url
 亞洲新聞台,url
@@ -261,6 +260,7 @@ tvbs闽南频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
 龙华偶像频道,url
+龙华电影频道,url
 华纳电影频道,url
 唐人亚太频道,url
 亚洲旅游频道,url
@@ -294,4 +294,4 @@ NHK新闻频英,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-06-10 05:42:38,http://122.117.71.103:8540/中天新闻.m3u8
+2025-06-11 05:42:36,http://122.117.71.103:8540/中天新闻.m3u8

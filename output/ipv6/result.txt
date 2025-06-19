@@ -40,6 +40,7 @@ TVBS-新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 无线新闻台(北美),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻台(北美),https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -48,8 +49,10 @@ TVBS-新聞台,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 无线新闻台(北美),https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+千禧經典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 娛樂新聞台(HK),https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 美亞電影台(HK),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+黃金翡翠台,http://tl.061833.xyz/tl/null-2
 龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -58,6 +61,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯频道,https://live.tvfix.org/live/fwzx/index.m3u8
 无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -66,14 +70,35 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻频道,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻频道,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻频道,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+无线翡翠频道,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
+无线翡翠频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线华丽频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华剧频道,http://tl.061833.xyz/tl/null-4
+无线亚剧频道,http://tl.061833.xyz/tl/null-13
+无线粤片频道,http://tl.061833.xyz/tl/null-10
+黄金翡翠频道,http://tl.061833.xyz/tl/null-2
+黄金华剧频道,http://tl.061833.xyz/tl/null-9
+千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 天映经典频道,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+天映经典频道,http://tl.061833.xyz/tl/null-1
 tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
+无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
+无线直播频道,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
+无线功夫频道,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+无线星河频粤,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+无线星河频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+澳门莲花频道,http://php.jdshipin.com:8880/amlh.php
 
 🈳无结果频道,#genre#
 中天亞洲台,url
@@ -87,17 +112,14 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 中視,url
 無線衛星新聞台,url
 翡翠台4K,url
-凤凰卫视,url
 TVB,url
 tvN,url
-千禧經典台(HK),url
 日本全天新聞,url
 明珠剧集台(北美),url
 翡翠剧集台(北美),url
 翡翠综合台(北美),url
 華視,url
 靖天電影台,url
-黃金翡翠台,url
 龍華日韓台,url
 龍華經典台,url
 NHK World-Japan,url
@@ -168,25 +190,16 @@ tvbs欢乐4Gtv,url
 亚洲旅游4Gtv,url
 美国之音4Gtv,url
 半岛新闻4Gtv,url
-凤凰卫视频道,url
 凤凰香港频国,url
 有线新闻频道,url
-无线翡翠频道,url
-无线华丽频道,url
 有线综讯频道,url
 有线赛马频道,url
 无线赛马频道,url
 无线娱乐频道,url
-无线华剧频道,url
-无线亚剧频道,url
 无线亚综频道,url
-无线粤片频道,url
 无线生活频道,url
 无线功夫频粤,url
 无线功夫频国,url
-黄金翡翠频道,url
-黄金华剧频道,url
-千禧经典频道,url
 无线经典频道,url
 天映频道频道,url
 美亚电影频港,url
@@ -215,25 +228,16 @@ tvbs闽南频道,url
 亚洲旅游频道,url
 探索频道频道,url
 野生地理频道,url
-凤凰香港频备,url
 星空卫视频道,url
-无线华丽频粤,url
-无线直播频道,url
-无线功夫频道,url
-无线星河频粤,url
 无线星河频国,url
 Now爆谷频道,url
 Now星影频道,url
 美亚电影频粤,url
 美亚电影频国,url
 天映频道马国,url
-重温经典频道,url
-Astr剧集频道,url
 动作电影频道,url
 家庭影院频道,url
 影迷电影频道,url
-广东珠江频备,url
-广东体育频备,url
 RTHK-31频陆,url
 RTHK-32频陆,url
 RTHK-33频道,url
@@ -241,7 +245,6 @@ RTHK-34频道,url
 RTHK-35频道,url
 香港面包频道,url
 香港_C+_频道,url
-澳门莲花频道,url
 澳视澳门频道,url
 澳视葡语频道,url
 澳门资讯频道,url
@@ -263,4 +266,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-06-19 05:41:57,http://122.117.71.103:8540/中天新闻.m3u8
+2025-06-20 05:42:08,http://122.117.71.103:8540/中天新闻.m3u8

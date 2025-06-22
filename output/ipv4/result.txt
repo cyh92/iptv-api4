@@ -35,14 +35,18 @@
 
 港闽频道,#genre#
 凤凰资讯频道,http://218.202.220.2:5000/nn_live.ts?id=FHZX
+民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
+华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
+台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
 东森超视频道,rtmp://60.248.77.83/sat/tv331
 东森超视频道,rtmp://9hv9.mine.nu/sat/tv331.flv
@@ -182,9 +186,6 @@ tvbs新闻频道,url
 寰宇新闻频道,url
 三立新闻频道,url
 中视新闻频道,url
-民视闽南频道,url
-华视闽南频道,url
-台视闽南频道,url
 tvbs闽南频道,url
 三立台湾频道,url
 八大综合频道,url
@@ -234,7 +235,6 @@ RTHK-35频道,url
 澳视葡语频道,url
 澳门资讯频道,url
 澳门mac频道,url
-中视闽南频道,url
 东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
@@ -250,4 +250,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-06-22 05:40:55,http://122.117.71.103:8540/中天新闻.m3u8
+2025-06-23 05:41:27,http://122.117.71.103:8540/中天新闻.m3u8

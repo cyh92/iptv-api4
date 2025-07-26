@@ -62,6 +62,7 @@ tvN,https://smart.pendy.dpdns.org/Smart.php?id=TVN
 美亞電影台(HK),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亞電影台(HK),http://free.cnlive.club/channel/n6d2f2fd2.m3u8
 黃金翡翠台,http://tl.061833.xyz/tl/null-2
+龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龍華電影台,http://free.cnlive.club/channel/n5e8ca809.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -100,6 +101,7 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 东森电影频道,http://free.cnlive.club/channel/7cb9a434.m3u8
 东森洋片频道,http://free.cnlive.club/channel/7cb8b9f4.m3u8
 龙华洋片频道,http://free.cnlive.club/channel/n5e8d9249.m3u8
+龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影频道,http://free.cnlive.club/channel/n5e8ca809.m3u8
 亚洲旅游频道,http://free.cnlive.club/channel/2631a9ae.m3u8
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -277,4 +279,4 @@ NHK新闻频英,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-07-26 05:43:47,http://122.117.71.103:8540/中天新闻.m3u8
+2025-07-27 05:43:18,http://122.117.71.103:8540/中天新闻.m3u8

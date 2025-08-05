@@ -129,6 +129,8 @@ https://live.tvfix.org/live/tvbplus/index.m3u8
 https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="港·澳·台",美亞電影台(HK)
 https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="港·澳·台",龍華電影台
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
 https://live.tvfix.org/live/tvbs/index.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
@@ -173,6 +175,8 @@ https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 #EXTINF:-1 tvg-name="tvbs新闻频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvbs新闻频道.png" group-title="港闽频道",tvbs新闻频道
 https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+#EXTINF:-1 tvg-name="龙华电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影频道.png" group-title="港闽频道",龙华电影频道
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
@@ -248,8 +252,6 @@ url
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🈳无结果频道",龍華日韓台
 url
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華經典台.png" group-title="🈳无结果频道",龍華經典台
-url
-#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="🈳无结果频道",龍華電影台
 url
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK World-Japan.png" group-title="🈳无结果频道",NHK World-Japan
 url
@@ -467,8 +469,6 @@ url
 url
 #EXTINF:-1 tvg-name="龙华偶像频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华偶像频道.png" group-title="🈳无结果频道",龙华偶像频道
 url
-#EXTINF:-1 tvg-name="龙华电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影频道.png" group-title="🈳无结果频道",龙华电影频道
-url
 #EXTINF:-1 tvg-name="华纳电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华纳电影频道.png" group-title="🈳无结果频道",华纳电影频道
 url
 #EXTINF:-1 tvg-name="唐人亚太频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/唐人亚太频道.png" group-title="🈳无结果频道",唐人亚太频道
@@ -567,5 +567,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-08-05 05:45:37
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-08-06 05:44:52
 http://122.117.71.103:8540/中天新闻.m3u8

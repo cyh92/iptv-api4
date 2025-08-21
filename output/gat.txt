@@ -66,6 +66,7 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
 娛樂新聞台(HK),https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 美亞電影台(HK),https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+靖天電影台,http://live4play.uk/livehttpplay?channel_id=12037
 龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
@@ -100,9 +101,9 @@ tvbs新闻频道,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
@@ -131,7 +132,6 @@ tvN,url
 翡翠剧集台(北美),url
 翡翠综合台(北美),url
 華視,url
-靖天電影台,url
 黃金翡翠台,url
 龍華日韓台,url
 龍華經典台,url
@@ -292,4 +292,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-08-21 05:41:18,http://122.117.71.103:8540/中天新闻.m3u8
+2025-08-22 05:40:27,http://122.117.71.103:8540/中天新闻.m3u8

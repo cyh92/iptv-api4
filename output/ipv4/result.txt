@@ -16,12 +16,10 @@
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-鳳凰資訊,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
 翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
-凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -35,13 +33,11 @@
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
-凤凰资讯频道,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 三立新闻频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 三立台湾频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻频道,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
@@ -59,6 +55,7 @@ TVBS-新聞台,url
 东森电影,url
 中視,url
 鳳凰中文,url
+鳳凰資訊,url
 鳳凰香港,url
 明珠台,url
 无线新闻,url
@@ -66,6 +63,7 @@ TVBS-新聞台,url
 無線衛星新聞台,url
 翡翠台4K,url
 凤凰中文,url
+凤凰资讯,url
 凤凰香港,url
 凤凰卫视,url
 无线新闻台(北美),url
@@ -155,6 +153,7 @@ tvbs欢乐4Gtv,url
 美国之音4Gtv,url
 半岛新闻4Gtv,url
 凤凰卫视频道,url
+凤凰资讯频道,url
 凤凰香港频国,url
 有线新闻频道,url
 无线新闻频道,url
@@ -204,6 +203,7 @@ tvbs闽南频道,url
 探索频道频道,url
 野生地理频道,url
 凤凰香港频备,url
+星空卫视频道,url
 无线华丽频粤,url
 无线直播频道,url
 无线功夫频道,url
@@ -250,4 +250,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-09-17 05:39:41,http://122.117.71.103:8540/中天新闻.m3u8
+2025-09-18 05:39:15,http://122.117.71.103:8540/中天新闻.m3u8

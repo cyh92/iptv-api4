@@ -1,10 +1,12 @@
 港·澳·台,#genre#
 中天新聞台,http://122.117.71.103:8540/中天新闻.m3u8
 中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新聞台,http://iptv.4666888.xyz/iptv2.php?id=141
 中天新聞台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新闻,http://iptv.4666888.xyz/iptv2.php?id=141
 中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8?txiptv&playlive
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
@@ -16,10 +18,13 @@
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+无线新闻,http://iptv.4666888.xyz/iptv2.php?id=65
+無線新聞台,http://iptv.4666888.xyz/iptv2.php?id=65
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
 翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
+无线新闻台(北美),http://iptv.4666888.xyz/iptv2.php?id=65
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -33,6 +38,8 @@
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
+有线新闻频道,http://iptv.4666888.xyz/iptv2.php?id=89
+无线新闻频道,http://iptv.4666888.xyz/iptv2.php?id=65
 三立新闻频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
@@ -43,7 +50,10 @@
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新闻频道,http://iptv.4666888.xyz/iptv2.php?id=141
 中天新闻频道,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
+Now爆谷频道,http://iptv.4666888.xyz/iptv2.php?id=6
+Now星影频道,http://iptv.4666888.xyz/iptv2.php?id=7
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
@@ -63,15 +73,12 @@ TVBS-新聞台,url
 鳳凰資訊,url
 鳳凰香港,url
 明珠台,url
-无线新闻,url
-無線新聞台,url
 無線衛星新聞台,url
 翡翠台4K,url
 凤凰中文,url
 凤凰资讯,url
 凤凰香港,url
 凤凰卫视,url
-无线新闻台(北美),url
 TVB Plus,url
 TVB,url
 tvN,url
@@ -160,8 +167,6 @@ tvbs欢乐4Gtv,url
 凤凰卫视频道,url
 凤凰资讯频道,url
 凤凰香港频国,url
-有线新闻频道,url
-无线新闻频道,url
 无线翡翠频道,url
 无线华丽频道,url
 有线综讯频道,url
@@ -212,8 +217,6 @@ tvbs闽南频道,url
 无线星河频粤,url
 无线星河频国,url
 无线星河频道,url
-Now爆谷频道,url
-Now星影频道,url
 美亚电影频粤,url
 美亚电影频国,url
 天映频道马国,url
@@ -250,4 +253,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-09-20 05:39:18,http://122.117.71.103:8540/中天新闻.m3u8
+2025-09-21 05:38:37,http://122.117.71.103:8540/中天新闻.m3u8

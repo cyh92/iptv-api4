@@ -133,8 +133,6 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 #EXTINF:-1 tvg-name="无线新闻频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻频道.png" group-title="港闽频道",无线新闻频道
 http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="港闽频道",天映经典频道
-https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 #EXTINF:-1 tvg-name="三立新闻频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻频道.png" group-title="港闽频道",三立新闻频道
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 #EXTINF:-1 tvg-name="三立台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾频道.png" group-title="港闽频道",三立台湾频道
@@ -395,6 +393,8 @@ url
 url
 #EXTINF:-1 tvg-name="无线经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线经典频道.png" group-title="🈳无结果频道",无线经典频道
 url
+#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="🈳无结果频道",天映经典频道
+url
 #EXTINF:-1 tvg-name="天映频道频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道频道.png" group-title="🈳无结果频道",天映频道频道
 url
 #EXTINF:-1 tvg-name="美亚电影频港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影频港.png" group-title="🈳无结果频道",美亚电影频港
@@ -535,5 +535,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-10-03 05:38:44
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-10-04 05:39:07
 http://122.117.71.103:8540/中天新闻.m3u8

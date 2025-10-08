@@ -77,10 +77,6 @@ http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="港·澳·台",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="港·澳·台",美亞電影台(HK)
-http://tl.061833.xyz/tl/null-5
-#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="港·澳·台",黃金翡翠台
-http://tl.061833.xyz/tl/null-2
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="港·澳·台",龍華電影台
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="港·澳·台",J2
@@ -109,14 +105,6 @@ https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 #EXTINF:-1 tvg-name="无线新闻频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻频道.png" group-title="港闽频道",无线新闻频道
 http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-#EXTINF:-1 tvg-name="无线华剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线华剧频道.png" group-title="港闽频道",无线华剧频道
-http://tl.061833.xyz/tl/null-4
-#EXTINF:-1 tvg-name="黄金翡翠频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金翡翠频道.png" group-title="港闽频道",黄金翡翠频道
-http://tl.061833.xyz/tl/null-2
-#EXTINF:-1 tvg-name="黄金华剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金华剧频道.png" group-title="港闽频道",黄金华剧频道
-http://tl.061833.xyz/tl/null-9
-#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="港闽频道",天映经典频道
-http://tl.061833.xyz/tl/null-1
 #EXTINF:-1 tvg-name="龙华电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影频道.png" group-title="港闽频道",龙华电影频道
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
@@ -187,6 +175,8 @@ url
 url
 #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="🈳无结果频道",明珠剧集台(北美)
 url
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="🈳无结果频道",美亞電影台(HK)
+url
 #EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠剧集台(北美).png" group-title="🈳无结果频道",翡翠剧集台(北美)
 url
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台(北美).png" group-title="🈳无结果频道",翡翠综合台(北美)
@@ -194,6 +184,8 @@ url
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🈳无结果频道",華視
 url
 #EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="🈳无结果频道",靖天電影台
+url
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="🈳无结果频道",黃金翡翠台
 url
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🈳无结果频道",龍華日韓台
 url
@@ -351,6 +343,8 @@ url
 url
 #EXTINF:-1 tvg-name="无线娱乐频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线娱乐频道.png" group-title="🈳无结果频道",无线娱乐频道
 url
+#EXTINF:-1 tvg-name="无线华剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线华剧频道.png" group-title="🈳无结果频道",无线华剧频道
+url
 #EXTINF:-1 tvg-name="无线亚剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线亚剧频道.png" group-title="🈳无结果频道",无线亚剧频道
 url
 #EXTINF:-1 tvg-name="无线亚综频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线亚综频道.png" group-title="🈳无结果频道",无线亚综频道
@@ -363,9 +357,15 @@ url
 url
 #EXTINF:-1 tvg-name="无线功夫频国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线功夫频国.png" group-title="🈳无结果频道",无线功夫频国
 url
+#EXTINF:-1 tvg-name="黄金翡翠频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金翡翠频道.png" group-title="🈳无结果频道",黄金翡翠频道
+url
+#EXTINF:-1 tvg-name="黄金华剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金华剧频道.png" group-title="🈳无结果频道",黄金华剧频道
+url
 #EXTINF:-1 tvg-name="千禧经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧经典频道.png" group-title="🈳无结果频道",千禧经典频道
 url
 #EXTINF:-1 tvg-name="无线经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线经典频道.png" group-title="🈳无结果频道",无线经典频道
+url
+#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="🈳无结果频道",天映经典频道
 url
 #EXTINF:-1 tvg-name="天映频道频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道频道.png" group-title="🈳无结果频道",天映频道频道
 url
@@ -509,5 +509,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-10-08 05:39:49
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-10-09 05:39:20
 http://122.117.71.103:8540/中天新闻.m3u8

@@ -2,12 +2,10 @@
 中天新聞台,http://122.117.71.103:8540/中天新闻.m3u8
 中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新聞台,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8?txiptv&playlive
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
@@ -18,17 +16,11 @@
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+东森电影,http://live4play.uk/livehttpplay?channel_id=20104
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
 翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
 翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -42,19 +34,18 @@ TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
-凤凰资讯频道,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 三立新闻频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
 三立台湾频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
+东森电影频道,http://live4play.uk/livehttpplay?channel_id=20104
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻频道,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
-中天新闻频道,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
@@ -68,15 +59,21 @@ TVBS-新聞台,url
 寰宇新聞台,url
 東森新聞,url
 东森综合,url
-东森电影,url
 中視,url
+鳳凰中文,url
+鳳凰資訊,url
+鳳凰香港,url
 明珠台,url
 无线新闻,url
 無線新聞台,url
 無線衛星新聞台,url
 翡翠台4K,url
+凤凰中文,url
+凤凰资讯,url
+凤凰香港,url
 凤凰卫视,url
 无线新闻台(北美),url
+TVB Plus,url
 TVB,url
 tvN,url
 千禧經典台(HK),url
@@ -162,6 +159,7 @@ tvbs欢乐4Gtv,url
 美国之音4Gtv,url
 半岛新闻4Gtv,url
 凤凰卫视频道,url
+凤凰资讯频道,url
 凤凰香港频国,url
 有线新闻频道,url
 无线新闻频道,url
@@ -196,7 +194,6 @@ tvbs闽南频道,url
 八大戏剧频道,url
 靖洋戏剧频道,url
 龙祥时代频道,url
-东森电影频道,url
 东森洋片频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
@@ -253,4 +250,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-10-13 05:40:14,http://122.117.71.103:8540/中天新闻.m3u8
+2025-10-14 05:42:13,http://122.117.71.103:8540/中天新闻.m3u8

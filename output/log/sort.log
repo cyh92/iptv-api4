@@ -1,34 +1,26 @@
-Name: 中天新聞台, URL: http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 中天新聞台, URL: https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009$订阅源, IPv_Type: ipv4, Date: None, Delay: 158 ms, Speed: 0.14 M/s, Resolution: None
 Name: 中天新聞台, URL: http://tlive24.uk/livehttpplay?channel_id=20163$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新聞台, URL: http://bxtv.3a.ink/api.php?id=ztxw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中天新闻, URL: http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 中天新闻, URL: https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009$订阅源, IPv_Type: ipv4, Date: None, Delay: 158 ms, Speed: 0.14 M/s, Resolution: None
 Name: 中天新闻, URL: http://tlive24.uk/livehttpplay?channel_id=20163$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻, URL: http://bxtv.3a.ink/api.php?id=ztxw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS-新聞台, URL: https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立台湾, URL: https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立台湾, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾$订阅源, IPv_Type: ipv4, Date: None, Delay: 273 ms, Speed: 0.07 M/s, Resolution: 1280x582
+Name: 三立台湾, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾$订阅源, IPv_Type: ipv4, Date: None, Delay: 326 ms, Speed: 0.02 M/s, Resolution: 1280x582
 Name: 三立新闻, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻, URL: https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立新闻, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源, IPv_Type: ipv4, Date: None, Delay: 273 ms, Speed: 0.07 M/s, Resolution: 1280x582
+Name: 三立新闻, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源, IPv_Type: ipv4, Date: None, Delay: 326 ms, Speed: 0.02 M/s, Resolution: 1280x582
 Name: 东森综合, URL: https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视, URL: rtmp://116.93.98.236/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5050 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视, URL: rtmp://116.93.98.236/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5065 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视, URL: rtmp://60.248.77.83/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视, URL: rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 1034 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视, URL: rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视, URL: rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 648 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视, URL: rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8#rtmp://f13h.mine.nu/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森电影, URL: http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森电影, URL: http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森电影, URL: http://live4play.uk/livehttpplay?channel_id=20104$订阅源, IPv_Type: ipv4, Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰中文, URL: http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 鳳凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 鳳凰中文, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰中文, URL: http://146.56.153.245:20121/bysid/258$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰中文, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092$组播源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森电影, URL: http://live4play.uk/livehttpplay?channel_id=20104$订阅源, IPv_Type: ipv4, Date: None, Delay: 84 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森电影, URL: http://free.cnlive.club/channel/7cb9a434.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 鳳凰中文, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰中文, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰中文, URL: http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -45,10 +37,6 @@ Name: 鳳凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u
 Name: 鳳凰中文, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 鳳凰中文, URL: http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰中文, URL: https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰資訊, URL: http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 鳳凰資訊, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$组播源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰資訊, URL: http://146.56.153.245:20121/bysid/257$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰資訊, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰資訊, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰資訊, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰資訊, URL: http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -62,7 +50,6 @@ Name: 鳳凰資訊, URL: http://218.202.220.2:5000/nn_live.ts?id=FHZX$订阅源,
 Name: 鳳凰資訊, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰資訊, URL: http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰資訊, URL: https://live.tvfix.org/live/fwzx/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 鳳凰香港, URL: http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
 Name: 鳳凰香港, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰香港, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 鳳凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -102,35 +89,20 @@ Name: 無線新聞台, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=21$�
 Name: 無線新聞台, URL: https://live.tvfix.org/live/inews/3/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 無線新聞台, URL: http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 無線新聞台, URL: http://bxtv.3a.ink/api.php?id=wxxw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah005-golive.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://58.250.155.2:8180/TV00000000000000000032@HHZT$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://beishan008.asuscomm.com:8889/bysid/1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: https://pi.0472.org/tv/fct.php?auth=230918$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: http://fm1077.serv00.net/Smart.php?id=jade_twn$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: http://120.198.101.106:9901/tsfile/live/1007_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://huangtong-com.cn:9902/tsfile/live/1007_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 翡翠台, URL: http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 翡翠台, URL: rtmp://sy.ecoheze.com/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: rtmp://redmine.ziyanuav.com/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
-Name: 翡翠台, URL: rtmp://patrol.psn.asia/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 5316 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=53$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: rtmp://sy.ecoheze.com/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: rtmp://redmine.ziyanuav.com/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 翡翠台, URL: rtmp://patrol.psn.asia/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 5254 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: rtmp://szgasszyaxtgl.szius.com/live/gdfc$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
 Name: 翡翠台, URL: https://live.tvfix.org/live/jade/3/v700000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰中文, URL: http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 凤凰中文, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰中文, URL: http://146.56.153.245:20121/bysid/258$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰中文, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092$组播源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhzw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -147,10 +119,6 @@ Name: 凤凰中文, URL: http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u
 Name: 凤凰中文, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 凤凰中文, URL: http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰中文, URL: https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$组播源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://146.56.153.245:20121/bysid/257$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -164,7 +132,6 @@ Name: 凤凰资讯, URL: http://218.202.220.2:5000/nn_live.ts?id=FHZX$订阅源,
 Name: 凤凰资讯, URL: http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯, URL: https://live.tvfix.org/live/fwzx/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰香港, URL: http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
 Name: 凤凰香港, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhhk$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰香港, URL: https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -191,29 +158,31 @@ Name: 无线新闻台(北美), URL: http://122.152.202.33/s/81a8a44f/index.m3u8?
 Name: 无线新闻台(北美), URL: https://live.tvfix.org/live/inews/3/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线新闻台(北美), URL: http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 无线新闻台(北美), URL: http://bxtv.3a.ink/api.php?id=wxxw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: TVB Plus, URL: http://php.jdshipin.com/TVOD/iptv.php?id=j2$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: TVB Plus, URL: http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: TVB Plus, URL: http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVB Plus, URL: https://live.tvfix.org/live/tvbplus/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: tvN, URL: http://free.cnlive.club/channel/fa5561c.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: tvN, URL: http://51.89.166.17:3002/index.php?id=TVN$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: tvN, URL: https://tv543.cc/Smart.php?id=TVN$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 娛樂新聞台(HK), URL: https://live.tvfix.org/live/enews/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 美亞電影台(HK), URL: https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 美亞電影台(HK), URL: http://free.cnlive.club/channel/n6d2f2fd2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 龍華電影台, URL: https://cdn8.163189.xyz/live/lhdy/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 龍華電影台, URL: http://free.cnlive.club/channel/n5e8ca809.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: TVBS亚洲, URL: https://live.tvfix.org/live/tvbs/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来体育, URL: rtmp://116.93.98.236/sat/tv721.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5050 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来体育, URL: rtmp://f13h.mine.nu:1935/sat/tv721$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来体育, URL: rtmp://116.93.98.236/sat/tv721.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5065 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来体育, URL: rtmp://f13h.mine.nu:1935/sat/tv721$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来体育, URL: rtmp://60.248.77.83/sat/tv721$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来体育, URL: rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 1034 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来体育, URL: rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 648 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来体育, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来体育, URL: http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来体育, URL: https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来体育, URL: http://ku9.fr.to/smt.php?id=videolandsport$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来体育, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育$订阅源, IPv_Type: ipv4, Date: None, Delay: 273 ms, Speed: 0.07 M/s, Resolution: 1280x582
+Name: 纬来体育, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育$订阅源, IPv_Type: ipv4, Date: None, Delay: 326 ms, Speed: 0.02 M/s, Resolution: 1280x582
 Name: 纬来体育, URL: http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来育乐, URL: rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来育乐, URL: rtmp://9hv9.mine.nu/sat/tv701$订阅源, IPv_Type: ipv4, Date: None, Delay: 1034 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来育乐, URL: rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来育乐, URL: rtmp://9hv9.mine.nu/sat/tv701$订阅源, IPv_Type: ipv4, Date: None, Delay: 648 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来育乐, URL: rtmp://60.248.77.83/sat/tv701$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 纬来育乐, URL: rtmp://116.93.98.236/sat/tv701.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5050 ms, Speed: 0.00 M/s, Resolution: None
+Name: 纬来育乐, URL: rtmp://116.93.98.236/sat/tv701.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5065 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来育乐, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b42811cf86d52427b10f21ae97d5693c$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 纬来育乐, URL: https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: J2, URL: http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -228,10 +197,6 @@ Name: 凤凰卫视频道, URL: http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 Name: 凤凰卫视频道, URL: http://122.152.202.33/s/81a8a44f/index.m3u8?id=15$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视频道, URL: http://qjrhc.jydjd.top:2911/udp/225.1.101.31:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰卫视频道, URL: http://119.32.12.17:2901/udp/225.1.101.31:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯频道, URL: http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 凤凰资讯频道, URL: http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086$组播源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯频道, URL: http://146.56.153.245:20121/bysid/257$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 凤凰资讯频道, URL: http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8576/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯频道, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯频道, URL: http://ttkx.cc:1380/653哈哈/fh.php?id=fhzx$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 凤凰资讯频道, URL: http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -265,30 +230,37 @@ Name: 无线翡翠频道, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.121:111
 Name: 无线翡翠频道, URL: http://119.32.12.17:2901/udp/224.1.100.121:11111$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天映经典频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天映经典频道, URL: https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 天映经典频道, URL: http://free.cnlive.club/channel/n7e49c99a.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 天映频道频道, URL: http://free.cnlive.club/channel/n7e466c41.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: tvbs新闻频道, URL: https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻频道, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立新闻频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立新闻频道, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源, IPv_Type: ipv4, Date: None, Delay: 273 ms, Speed: 0.07 M/s, Resolution: 1280x582
-Name: 民视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv051$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 华视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv111$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 台视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv071$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三立新闻频道, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW$订阅源, IPv_Type: ipv4, Date: None, Delay: 326 ms, Speed: 0.02 M/s, Resolution: 1280x582
+Name: 民视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv051$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 华视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv111$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 台视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv071$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: tvbs闽南频道, URL: http://61.221.215.25:8800/hls/9/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三立台湾频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三立台湾频道, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾$订阅源, IPv_Type: ipv4, Date: None, Delay: 273 ms, Speed: 0.07 M/s, Resolution: 1280x582
+Name: 三立台湾频道, URL: http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾$订阅源, IPv_Type: ipv4, Date: None, Delay: 326 ms, Speed: 0.02 M/s, Resolution: 1280x582
+Name: 龙祥时代频道, URL: http://free.cnlive.club/channel/n5dff94e1.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东森电影频道, URL: http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森电影频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森电影频道, URL: http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森电影频道, URL: http://live4play.uk/livehttpplay?channel_id=20104$订阅源, IPv_Type: ipv4, Date: None, Delay: 112 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森电影频道, URL: http://live4play.uk/livehttpplay?channel_id=20104$订阅源, IPv_Type: ipv4, Date: None, Delay: 84 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森电影频道, URL: http://free.cnlive.club/channel/7cb9a434.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 东森洋片频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森洋片频道, URL: http://free.cnlive.club/channel/7cb8b9f4.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 龙华洋片频道, URL: http://free.cnlive.club/channel/n5e8d9249.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 龙华电影频道, URL: https://cdn8.163189.xyz/live/lhdy/stream.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 香港卫视频道, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 香港卫视频道, URL: http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 香港卫视频道, URL: http://anren.live/HK/BSJDUFpB.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 香港卫视频道, URL: rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源, IPv_Type: ipv4, Date: None, Delay: 52 ms, Speed: 0.00 M/s, Resolution: None
+Name: 龙华电影频道, URL: http://free.cnlive.club/channel/n5e8ca809.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 亚洲旅游频道, URL: http://free.cnlive.club/channel/2631a9ae.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 香港卫视频道, URL: rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源, IPv_Type: ipv4, Date: None, Delay: 47 ms, Speed: 0.00 M/s, Resolution: None
 Name: 香港卫视频道, URL: https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 香港卫视频道, URL: http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi$订阅源, IPv_Type: ipv4, Date: None, Delay: 7 ms, Speed: 17.14 M/s, Resolution: 19x24
+Name: 香港卫视频道, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 香港卫视频道, URL: http://anren.live/HK/BSJDUFpB.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 香港卫视频道, URL: http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi$订阅源, IPv_Type: ipv4, Date: None, Delay: 192 ms, Speed: 1.36 M/s, Resolution: 19x24
 Name: 香港卫视频道, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 香港卫视频道, URL: https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 20 ms, Speed: 0.02 M/s, Resolution: None
+Name: 香港卫视频道, URL: https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 8 ms, Speed: 0.04 M/s, Resolution: None
 Name: 星空卫视频道, URL: http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat1&id=19$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 星空卫视频道, URL: http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 星空卫视频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -298,8 +270,6 @@ Name: 星空卫视频道, URL: http://xhyx.gz.cn:1698/hls/35/index.m3u8$订阅�
 Name: 星空卫视频道, URL: http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 星空卫视频道, URL: http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 星空卫视频道, URL: http://119.32.12.17:2901/udp/224.1.100.13:11111$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中天新闻频道, URL: http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 100 ms, Speed: 0.06 M/s, Resolution: None
-Name: 中天新闻频道, URL: https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009$订阅源, IPv_Type: ipv4, Date: None, Delay: 158 ms, Speed: 0.14 M/s, Resolution: None
 Name: 中天新闻频道, URL: http://tlive24.uk/livehttpplay?channel_id=20163$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 中天新闻频道, URL: http://bxtv.3a.ink/api.php?id=ztxw$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 无线星河频国, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -309,10 +279,10 @@ Name: 无线星河频道, URL: http://php.jdshipin.com/smt.php?id=Xinhe$订阅�
 Name: 美亚电影频国, URL: https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 美亚电影频国, URL: http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 美亚电影频国, URL: https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 重温经典频道, URL: http://120.76.248.139/live/bfgd/4200000635.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重温经典频道, URL: http://ygbh.site/php/bfgd.php?id=636$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重温经典频道, URL: http://m.061899.xyz/mg/cwjd$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重温经典频道, URL: http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 重温经典频道, URL: http://120.76.248.139/live/bfgd/4200000635.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重温经典频道, URL: http://qjrhc.jydjd.top:2911/udp/225.1.101.53:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 重温经典频道, URL: http://119.32.12.17:2901/udp/225.1.101.53:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 动作电影频道, URL: http://111.43.126.240:9003/hls/75/index.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -328,22 +298,26 @@ Name: 影迷电影频道, URL: http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004
 Name: 影迷电影频道, URL: http://qjrhc.jydjd.top:2911/udp/225.1.101.140:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 影迷电影频道, URL: http://119.32.12.17:2901/udp/225.1.101.140:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 香港_C+_频道, URL: http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 澳门莲花频道, URL: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 37 ms, Speed: 0.01 M/s, Resolution: 1920x1080
-Name: 澳视澳门频道, URL: http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 澳视澳门频道, URL: http://61.244.22.5/ch1/ch1.live/playelist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 澳门莲花频道, URL: http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 21 ms, Speed: 0.01 M/s, Resolution: 1920x1080
 Name: 澳视澳门频道, URL: http://qjrhc.jydjd.top:2911/udp/225.1.101.224:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 澳视澳门频道, URL: http://119.32.12.17:2901/udp/225.1.101.224:7523$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 澳视葡语频道, URL: http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 澳门资讯频道, URL: http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 澳门资讯频道, URL: http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 澳门mac频道, URL: http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 中视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv091$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视频道, URL: rtmp://116.93.98.236/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5050 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中视闽南频道, URL: rtmp://f13h.mine.nu/sat/tv091$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视频道, URL: rtmp://116.93.98.236/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 5065 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视频道, URL: rtmp://60.248.77.83/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视频道, URL: rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 1034 ms, Speed: 0.00 M/s, Resolution: None
-Name: 东森超视频道, URL: rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10005 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视频道, URL: rtmp://9hv9.mine.nu/sat/tv331.flv$订阅源, IPv_Type: ipv4, Date: None, Delay: 648 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森超视频道, URL: rtmp://f13h.mine.nu:1935:1935/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: 10004 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视频道, URL: http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视频道, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 东森超视频道, URL: http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8#rtmp://f13h.mine.nu/sat/tv331$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东森财经频特, URL: https://tv543.cc/Smart.php?id=ettvcaijing_twn$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 环球电视频道, URL: http://zb.xzxwhcb.com:9999/hls/world.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 环球电视频道, URL: http://utv1.hqtvzb.com:9999/hls/world.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: tvbs闽南频特, URL: https://tv543.cc/Smart.php?id=tvbs$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三立戏剧频特, URL: https://tv543.cc/Smart.php?id=sanlixiju_twn$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 八大戏剧频特, URL: https://tv543.cc/Smart.php?id=badadrama$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 八大第一频特, URL: https://tv543.cc/Smart.php?id=badafirst$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 八大综合频特, URL: https://tv543.cc/Smart.php?id=badazhonghe$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 中天娱乐频特, URL: https://tv543.cc/Smart.php?id=ctient$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None

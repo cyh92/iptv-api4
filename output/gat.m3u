@@ -85,6 +85,8 @@ http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 #EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台(北美).png" group-title="港·澳·台",无线新闻台(北美)
 http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="港·澳·台",靖天電影台
+http://live4play.uk/livehttpplay?channel_id=12037
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
@@ -192,8 +194,6 @@ url
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台(北美).png" group-title="🈳无结果频道",翡翠综合台(北美)
 url
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🈳无结果频道",華視
-url
-#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="🈳无结果频道",靖天電影台
 url
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="🈳无结果频道",黃金翡翠台
 url
@@ -523,5 +523,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-10-31 05:39:58
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-11-01 05:38:58
 http://122.117.71.103:8540/中天新闻.m3u8

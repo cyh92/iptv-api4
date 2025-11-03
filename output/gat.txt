@@ -42,7 +42,6 @@
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-靖天電影台,http://live4play.uk/livehttpplay?channel_id=12037
 纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -103,6 +102,7 @@ tvN,url
 翡翠剧集台(北美),url
 翡翠综合台(北美),url
 華視,url
+靖天電影台,url
 黃金翡翠台,url
 龍華日韓台,url
 龍華經典台,url
@@ -269,4 +269,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-11-03 05:38:20,http://122.117.71.103:8540/中天新闻.m3u8
+2025-11-04 05:40:06,http://122.117.71.103:8540/中天新闻.m3u8

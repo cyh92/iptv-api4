@@ -14,6 +14,7 @@
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+东森电影,http://live4play.uk/livehttpplay?channel_id=20104
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -71,6 +72,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
 三立台湾频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
+东森电影频道,http://live4play.uk/livehttpplay?channel_id=20104
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
@@ -81,6 +83,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线星河频国,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线星河频国,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
+无线星河频道,https://cdn6.101.qzz.io/163189/tvbxh
 美亚电影频国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影频国,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影频国,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
@@ -98,7 +101,6 @@ TVBS-新聞台,url
 寰宇新聞台,url
 東森新聞,url
 东森综合,url
-东森电影,url
 中視,url
 鳳凰香港,url
 明珠台,url
@@ -222,7 +224,6 @@ tvbs闽南频道,url
 八大戏剧频道,url
 靖洋戏剧频道,url
 龙祥时代频道,url
-东森电影频道,url
 东森洋片频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
@@ -275,4 +276,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-11-12 05:40:41,http://122.117.71.103:8540/中天新闻.m3u8
+2025-11-13 05:40:33,http://122.117.71.103:8540/中天新闻.m3u8

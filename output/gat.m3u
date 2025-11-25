@@ -130,6 +130,8 @@ rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
@@ -149,6 +151,10 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 http://php.jdshipin.com/smt.php?id=Xinhe
 #EXTINF:-1 tvg-name="无线星河频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河频道.png" group-title="港闽频道",无线星河频道
 https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 tvg-name="Now爆谷频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now爆谷频道.png" group-title="港闽频道",Now爆谷频道
+https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+#EXTINF:-1 tvg-name="Now星影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now星影频道.png" group-title="港闽频道",Now星影频道
+https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
 #EXTINF:-1 tvg-name="美亚电影频国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影频国.png" group-title="港闽频道",美亚电影频国
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="美亚电影频国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影频国.png" group-title="港闽频道",美亚电影频国
@@ -481,10 +487,6 @@ url
 url
 #EXTINF:-1 tvg-name="无线星河频粤" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河频粤.png" group-title="🈳无结果频道",无线星河频粤
 url
-#EXTINF:-1 tvg-name="Now爆谷频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now爆谷频道.png" group-title="🈳无结果频道",Now爆谷频道
-url
-#EXTINF:-1 tvg-name="Now星影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now星影频道.png" group-title="🈳无结果频道",Now星影频道
-url
 #EXTINF:-1 tvg-name="美亚电影频粤" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影频粤.png" group-title="🈳无结果频道",美亚电影频粤
 url
 #EXTINF:-1 tvg-name="天映频道马国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道马国.png" group-title="🈳无结果频道",天映频道马国
@@ -535,5 +537,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-11-25 05:42:19
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2025-11-26 05:41:13
 http://122.117.71.103:8540/中天新闻.m3u8

@@ -40,8 +40,6 @@
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-tvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
-tvN,https://tzh911.qzz.io/play-smt.php?id=TVN
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,rtmp://60.248.77.83/sat/tv721
@@ -176,7 +174,6 @@ tvbs欢乐4Gtv,http://114.34.123.103:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
 无线新闻频道,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻频道,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻频道,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-天映经典频道,https://100.061833.xyz/stream/mytv/null-1/stream.m3u8?uid=3291919010&u=rty789&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
@@ -197,13 +194,6 @@ tvbs欢乐4Gtv,http://114.34.123.103:50007/li-4gtv-4gtv068/index.m3u8?proxy=true
 东森超视频道,rtmp://60.248.77.83/sat/tv331
 东森超视频道,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视频道,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-东森财经频特,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
-tvbs闽南频特,https://tzh911.qzz.io/play-smt.php?id=tvbs
-三立戏剧频特,https://tzh911.qzz.io/play-smt.php?id=sanlixiju_twn
-八大戏剧频特,https://tzh911.qzz.io/play-smt.php?id=badadrama
-八大第一频特,https://tzh911.qzz.io/play-smt.php?id=badafirst
-八大综合频特,https://tzh911.qzz.io/play-smt.php?id=badazhonghe
-中天娱乐频特,https://tzh911.qzz.io/play-smt.php?id=ctient
 
 🈳无结果频道,#genre#
 TVBS-新聞台,url
@@ -223,6 +213,7 @@ TVBS-新聞台,url
 凤凰卫视,url
 TVB Plus,url
 TVB,url
+tvN,url
 千禧經典台(HK),url
 娛樂新聞台(HK),url
 日本全天新聞,url
@@ -266,6 +257,7 @@ Now华剧,url
 黄金华剧频道,url
 千禧经典频道,url
 无线经典频道,url
+天映经典频道,url
 天映频道频道,url
 美亚电影频港,url
 美亚电影频闽,url
@@ -321,12 +313,19 @@ RTHK-35频道,url
 澳视葡语频道,url
 澳门资讯频道,url
 澳门mac频道,url
+东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
 GBN新闻频英,url
 NHK新闻频英,url
+tvbs闽南频特,url
+三立戏剧频特,url
+八大戏剧频特,url
+八大第一频特,url
+八大综合频特,url
+中天娱乐频特,url
 民视第一频道,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-12-08 05:38:47,http://122.117.71.103:8540/中天新闻.m3u8
+2025-12-09 05:40:09,http://122.117.71.103:8540/中天新闻.m3u8

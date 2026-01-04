@@ -8,70 +8,11 @@
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
-三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
-三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
-三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
-东森超视,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
-东森超视,rtmp://116.93.98.236/sat/tv331.flv
-东森超视,rtmp://60.248.77.83/sat/tv331
-东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
-东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
-鳳凰中文,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
-鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-鳳凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-鳳凰資訊,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
-鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-鳳凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
-明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
-无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-無線新聞台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-無線新聞台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-無線新聞台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-無線新聞台,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-無線新聞台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,rtmp://sy.ecoheze.com/live/gdfc
-翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
-翡翠台,rtmp://patrol.psn.asia/live/gdfc
-翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
-凤凰中文,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7ab7c7d787d2a25089f090027098972a
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f2ad963332e3a496326ee97dc82c475e
-无线新闻台(北美),http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-无线新闻台(北美),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻台(北美),https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线新闻台(北美),https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻台(北美),http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 tvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
 tvN,https://live.catvod.com/live.php?id=TVN
-纬来体育,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=8d6457d1b6c00daea5b90e3c3cb2fde8
-纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
-纬来体育,rtmp://116.93.98.236/sat/tv721.flv
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
-纬来体育,rtmp://60.248.77.83/sat/tv721
-纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
-纬来育乐,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b42811cf86d52427b10f21ae97d5693c
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
-纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
-纬来育乐,rtmp://60.248.77.83/sat/tv701
-纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-Viutv,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf2dcf5540f665ee0b
-Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 
 闽南4Gtv,#genre#
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
@@ -133,40 +74,18 @@ tvbs欢乐4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 半岛新闻4Gtv,http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
 
 港闽频道,#genre#
-凤凰资讯频道,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=7f4703c71abe60b90887a794355363c8
-凤凰资讯频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-无线新闻频道,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻频道,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻频道,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-无线新闻频道,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻频道,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-三立新闻频道,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
-三立新闻频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
-三立台湾频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
-东森电影频道,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
-香港卫视频道,http://anren.live/HK/BSJDUFpB.m3u8
-香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
-星空卫视频道,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat1&id=19
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-无线星河频道,http://php.jdshipin.com/smt.php?id=Xinhe
 无线星河频道,https://cdn6.101.qzz.io/163189/tvbxh
+重温经典频道,https://other.ottiptv.cc/cwjd.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
-东森超视频道,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=163e6c3e3bd21f2beb6af46d4b6b9353
-东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
-东森超视频道,rtmp://60.248.77.83/sat/tv331
-东森超视频道,rtmp://9hv9.mine.nu/sat/tv331.flv
-东森超视频道,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+东森超视频道,rtmp://f13h.mine.nu/sat/tv331
 东森财经频特,https://live.catvod.com/live.php?id=ettvcaijing_twn
 tvbs闽南频特,https://live.catvod.com/live.php?id=tvbs
 三立戏剧频特,https://live.catvod.com/live.php?id=sanlixiju_twn
@@ -180,11 +99,25 @@ TVBS-新聞台,url
 中天亞洲台,url
 寰宇新聞台,url
 東森新聞,url
+三立台湾,url
+三立新闻,url
 东森综合,url
+东森电影,url
 中視,url
+鳳凰中文,url
+鳳凰資訊,url
+鳳凰香港,url
+明珠台,url
+无线新闻,url
+無線新聞台,url
 無線衛星新聞台,url
 翡翠台4K,url
+翡翠台,url
+凤凰中文,url
+凤凰资讯,url
+凤凰香港,url
 凤凰卫视,url
+无线新闻台(北美),url
 TVB Plus,url
 TVB,url
 千禧經典台(HK),url
@@ -205,14 +138,18 @@ NHK東京総合,url
 亞洲新聞台,url
 東方衛視國際頻道,url
 TVBS亚洲,url
+J2,url
+Viutv,url
 Now剧集,url
 Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
 凤凰卫视频道,url
+凤凰资讯频道,url
 凤凰香港频国,url
 有线新闻频道,url
+无线新闻频道,url
 无线翡翠频道,url
 无线华丽频道,url
 有线综讯频道,url
@@ -237,13 +174,16 @@ Now华剧,url
 东森新闻频道,url
 tvbs新闻频道,url
 寰宇新闻频道,url
+三立新闻频道,url
 中视新闻频道,url
 tvbs闽南频道,url
+三立台湾频道,url
 八大综合频道,url
 八大笫一频道,url
 八大戏剧频道,url
 靖洋戏剧频道,url
 龙祥时代频道,url
+东森电影频道,url
 东森洋片频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
@@ -255,6 +195,7 @@ tvbs闽南频道,url
 探索频道频道,url
 野生地理频道,url
 凤凰香港频备,url
+星空卫视频道,url
 无线华丽频粤,url
 无线直播频道,url
 无线功夫频道,url
@@ -290,4 +231,4 @@ NHK新闻频英,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-01-04 05:41:34,http://122.117.71.103:8540/中天新闻.m3u8
+2026-01-05 05:40:57,http://122.117.71.103:8540/中天新闻.m3u8

@@ -9,7 +9,6 @@
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 tvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
-tvN,https://live.catvod.com/live.php?id=TVN
 
 闽南4Gtv,#genre#
 
@@ -18,15 +17,9 @@ tvN,https://live.catvod.com/live.php?id=TVN
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 无线星河频道,https://cdn6.101.qzz.io/163189/tvbxh
+重温经典频道,https://other.ottiptv.cc/cwjd.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-东森财经频特,https://live.catvod.com/live.php?id=ettvcaijing_twn
-tvbs闽南频特,https://live.catvod.com/live.php?id=tvbs
-三立戏剧频特,https://live.catvod.com/live.php?id=sanlixiju_twn
-八大戏剧频特,https://live.catvod.com/live.php?id=badadrama
-八大第一频特,https://live.catvod.com/live.php?id=badafirst
-八大综合频特,https://live.catvod.com/live.php?id=badazhonghe
-中天娱乐频特,https://live.catvod.com/live.php?id=ctient
 
 🈳无结果频道,#genre#
 TVBS-新聞台,url
@@ -222,12 +215,19 @@ RTHK-35频道,url
 澳门mac频道,url
 中视闽南频道,url
 东森超视频道,url
+东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
 GBN新闻频英,url
 NHK新闻频英,url
+tvbs闽南频特,url
+三立戏剧频特,url
+八大戏剧频特,url
+八大第一频特,url
+八大综合频特,url
+中天娱乐频特,url
 民视第一频道,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-01-11 05:40:33,http://122.117.71.103:8540/中天新闻.m3u8
+2026-01-12 05:40:41,http://122.117.71.103:8540/中天新闻.m3u8

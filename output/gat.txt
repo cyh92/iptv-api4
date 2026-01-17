@@ -9,7 +9,6 @@
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-tvN,https://smt.go-iptv.ggff.net/smart.php?id=TVN&token=Goiptv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 
@@ -113,6 +112,7 @@ TVBS-新聞台,url
 无线新闻台(北美),url
 TVB Plus,url
 TVB,url
+tvN,url
 千禧經典台(HK),url
 娛樂新聞台(HK),url
 日本全天新聞,url
@@ -230,4 +230,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-01-17 05:43:51,http://122.117.71.103:8540/中天新闻.m3u8
+2026-01-18 05:40:47,http://122.117.71.103:8540/中天新闻.m3u8

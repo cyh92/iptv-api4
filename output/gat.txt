@@ -74,7 +74,6 @@ tvbs欢乐4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 半岛新闻4Gtv,http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
 
 港闽频道,#genre#
-天映经典频道,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 天映经典频道,http://43.251.226.89:8080/play/677.m3u8
 民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
 华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
@@ -85,7 +84,6 @@ tvbs欢乐4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 无线星河频道,https://cdn6.101.qzz.io/163189/tvbxh
-重温经典频道,https://other.ottiptv.cc/cwjd.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
@@ -231,4 +229,4 @@ NHK新闻频英,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-01-22 05:52:07,http://122.117.71.103:8540/中天新闻.m3u8
+2026-01-23 05:47:40,http://122.117.71.103:8540/中天新闻.m3u8

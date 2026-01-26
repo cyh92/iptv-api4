@@ -19,10 +19,6 @@ http://122.117.71.103:8526/中天娱乐.m3u8
 http://108.181.21.27:27347/livehttpplay?channel_id=20064
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="港·澳·台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="港·澳·台",东森电影
-http://live4play.uk/livehttpplay?channel_id=20104
-#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="港·澳·台",靖天電影台
-http://live4play.uk/livehttpplay?channel_id=12037
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影台.png" group-title="港·澳·台",龍華電影台
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
@@ -143,16 +139,12 @@ http://220.135.64.124:5050/li-4gtv-4gtv076/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-litv-ftv03/index.m3u8?proxy=true
 #EXTINF:-1 tvg-name="半岛新闻4Gtv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻4Gtv.png" group-title="闽南4Gtv",半岛新闻4Gtv
 http://220.135.64.124:5050/li-litv-ftv10/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="港闽频道",天映经典频道
-http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/1165791
 #EXTINF:-1 tvg-name="民视闽南频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视闽南频道.png" group-title="港闽频道",民视闽南频道
 rtmp://f13h.mine.nu/sat/tv051
 #EXTINF:-1 tvg-name="华视闽南频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视闽南频道.png" group-title="港闽频道",华视闽南频道
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-name="台视闽南频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/台视闽南频道.png" group-title="港闽频道",台视闽南频道
 rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 tvg-name="东森电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影频道.png" group-title="港闽频道",东森电影频道
-http://live4play.uk/livehttpplay?channel_id=20104
 #EXTINF:-1 tvg-name="龙华电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华电影频道.png" group-title="港闽频道",龙华电影频道
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="香港卫视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视频道.png" group-title="港闽频道",香港卫视频道
@@ -163,6 +155,8 @@ http://122.117.71.103:8540/中天新闻.m3u8
 http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 #EXTINF:-1 tvg-name="无线星河频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河频道.png" group-title="港闽频道",无线星河频道
 https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典频道.png" group-title="港闽频道",重温经典频道
+https://other.ottiptv.cc/cwjd.m3u8
 #EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典频道.png" group-title="港闽频道",重温经典频道
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-name="澳门莲花频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花频道.png" group-title="港闽频道",澳门莲花频道
@@ -184,6 +178,8 @@ url
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🈳无结果频道",三立新闻
 url
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🈳无结果频道",东森综合
+url
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🈳无结果频道",东森电影
 url
 #EXTINF:-1 tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中視.png" group-title="🈳无结果频道",中視
 url
@@ -236,6 +232,8 @@ url
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台(北美).png" group-title="🈳无结果频道",翡翠综合台(北美)
 url
 #EXTINF:-1 tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/華視.png" group-title="🈳无结果频道",華視
+url
+#EXTINF:-1 tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天電影台.png" group-title="🈳无结果频道",靖天電影台
 url
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黃金翡翠台.png" group-title="🈳无结果频道",黃金翡翠台
 url
@@ -311,6 +309,8 @@ url
 url
 #EXTINF:-1 tvg-name="无线经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线经典频道.png" group-title="🈳无结果频道",无线经典频道
 url
+#EXTINF:-1 tvg-name="天映经典频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典频道.png" group-title="🈳无结果频道",天映经典频道
+url
 #EXTINF:-1 tvg-name="天映频道频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道频道.png" group-title="🈳无结果频道",天映频道频道
 url
 #EXTINF:-1 tvg-name="美亚电影频港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影频港.png" group-title="🈳无结果频道",美亚电影频港
@@ -340,6 +340,8 @@ url
 #EXTINF:-1 tvg-name="靖洋戏剧频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖洋戏剧频道.png" group-title="🈳无结果频道",靖洋戏剧频道
 url
 #EXTINF:-1 tvg-name="龙祥时代频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥时代频道.png" group-title="🈳无结果频道",龙祥时代频道
+url
+#EXTINF:-1 tvg-name="东森电影频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影频道.png" group-title="🈳无结果频道",东森电影频道
 url
 #EXTINF:-1 tvg-name="东森洋片频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片频道.png" group-title="🈳无结果频道",东森洋片频道
 url
@@ -443,5 +445,5 @@ url
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2026-01-26 05:41:56
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2026-01-27 05:47:51
 http://122.117.71.103:8540/中天新闻.m3u8

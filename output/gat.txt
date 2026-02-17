@@ -9,7 +9,6 @@
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-tvN,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=TVN
 龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -86,13 +85,6 @@ tvbs欢乐4Gtv,http://220.135.64.124:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://f13h.mine.nu/sat/tv331
-东森财经频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvcaijing_twn
-tvbs闽南频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs
-三立戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlixiju_twn
-八大戏剧频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badadrama
-八大第一频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badafirst
-八大综合频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badazhonghe
-中天娱乐频特,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctient
 
 🈳无结果频道,#genre#
 TVBS-新聞台,url
@@ -120,6 +112,7 @@ TVBS-新聞台,url
 无线新闻台(北美),url
 TVB Plus,url
 TVB,url
+tvN,url
 千禧經典台(HK),url
 娛樂新聞台(HK),url
 日本全天新聞,url
@@ -222,12 +215,19 @@ RTHK-35频道,url
 澳视葡语频道,url
 澳门资讯频道,url
 澳门mac频道,url
+东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
 GBN新闻频英,url
 NHK新闻频英,url
+tvbs闽南频特,url
+三立戏剧频特,url
+八大戏剧频特,url
+八大第一频特,url
+八大综合频特,url
+中天娱乐频特,url
 民视第一频道,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-02-17 05:53:44,http://122.117.71.103:8540/中天新闻.m3u8
+2026-02-18 05:55:36,http://122.117.71.103:8540/中天新闻.m3u8

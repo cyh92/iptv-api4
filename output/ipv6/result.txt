@@ -17,6 +17,7 @@
 香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+重温经典频道,https://other.ottiptv.cc/cwjd.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
@@ -229,4 +230,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-03-06 05:58:37,http://122.117.71.103:8540/中天新闻.m3u8
+2026-03-07 05:53:10,http://122.117.71.103:8540/中天新闻.m3u8

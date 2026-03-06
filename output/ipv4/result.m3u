@@ -19,6 +19,8 @@ http://122.117.71.103:8526/中天娱乐.m3u8
 http://108.181.21.27:27347/livehttpplay?channel_id=20064
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="港·澳·台",东森超视
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="港·澳·台",tvN
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=TVN
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="港·澳·台",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="港·澳·台",纬来育乐
@@ -151,6 +153,20 @@ http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 rtmp://f13h.mine.nu/sat/tv091
 #EXTINF:-1 tvg-name="东森超视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视频道.png" group-title="港闽频道",东森超视频道
 rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 tvg-name="东森财经频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经频特.png" group-title="港闽频道",东森财经频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="tvbs闽南频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvbs闽南频特.png" group-title="港闽频道",tvbs闽南频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=tvbs
+#EXTINF:-1 tvg-name="三立戏剧频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧频特.png" group-title="港闽频道",三立戏剧频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=sanlixiju_twn
+#EXTINF:-1 tvg-name="八大戏剧频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大戏剧频特.png" group-title="港闽频道",八大戏剧频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badadrama
+#EXTINF:-1 tvg-name="八大第一频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大第一频特.png" group-title="港闽频道",八大第一频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badafirst
+#EXTINF:-1 tvg-name="八大综合频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合频特.png" group-title="港闽频道",八大综合频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=badazhonghe
+#EXTINF:-1 tvg-name="中天娱乐频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐频特.png" group-title="港闽频道",中天娱乐频特
+http://app.jun1.xyz/pitv.php?user=999999&pass=111111&type=mp4&id=ctient
 #EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS-新聞台.png" group-title="🈳无结果频道",TVBS-新聞台
 url
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亞洲台.png" group-title="🈳无结果频道",中天亞洲台
@@ -200,8 +216,6 @@ url
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="🈳无结果频道",TVB Plus
 url
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="🈳无结果频道",TVB
-url
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🈳无结果频道",tvN
 url
 #EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/千禧經典台(HK).png" group-title="🈳无结果频道",千禧經典台(HK)
 url
@@ -417,8 +431,6 @@ url
 url
 #EXTINF:-1 tvg-name="澳门mac频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门mac频道.png" group-title="🈳无结果频道",澳门mac频道
 url
-#EXTINF:-1 tvg-name="东森财经频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经频特.png" group-title="🈳无结果频道",东森财经频特
-url
 #EXTINF:-1 tvg-name="环球电视频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球电视频道.png" group-title="🈳无结果频道",环球电视频道
 url
 #EXTINF:-1 tvg-name="Astv亚洲卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Astv亚洲卫视.png" group-title="🈳无结果频道",Astv亚洲卫视
@@ -427,21 +439,9 @@ url
 url
 #EXTINF:-1 tvg-name="NHK新闻频英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NHK新闻频英.png" group-title="🈳无结果频道",NHK新闻频英
 url
-#EXTINF:-1 tvg-name="tvbs闽南频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvbs闽南频特.png" group-title="🈳无结果频道",tvbs闽南频特
-url
-#EXTINF:-1 tvg-name="三立戏剧频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧频特.png" group-title="🈳无结果频道",三立戏剧频特
-url
-#EXTINF:-1 tvg-name="八大戏剧频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大戏剧频特.png" group-title="🈳无结果频道",八大戏剧频特
-url
-#EXTINF:-1 tvg-name="八大第一频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大第一频特.png" group-title="🈳无结果频道",八大第一频特
-url
-#EXTINF:-1 tvg-name="八大综合频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合频特.png" group-title="🈳无结果频道",八大综合频特
-url
-#EXTINF:-1 tvg-name="中天娱乐频特" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐频特.png" group-title="🈳无结果频道",中天娱乐频特
-url
 #EXTINF:-1 tvg-name="民视第一频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视第一频道.png" group-title="🈳无结果频道",民视第一频道
 url
 #EXTINF:-1 tvg-name="民视台湾频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/民视台湾频道.png" group-title="🈳无结果频道",民视台湾频道
 url
-#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2026-03-06 05:58:37
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🕘️更新时间",2026-03-07 05:53:10
 http://122.117.71.103:8540/中天新闻.m3u8

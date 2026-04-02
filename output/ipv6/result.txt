@@ -8,12 +8,17 @@
 中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://122.117.71.103:8526/中天娱乐.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
+龍華電影台,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
+龙华电影频道,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+香港卫视频道,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+澳门莲花频道,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 🈳无结果频道,#genre#
 TVBS-新聞台,url
@@ -55,7 +60,6 @@ tvN,url
 黃金翡翠台,url
 龍華日韓台,url
 龍華經典台,url
-龍華電影台,url
 NHK World-Japan,url
 NHK東京総合,url
 亞洲新聞台,url
@@ -173,14 +177,12 @@ tvbs闽南频道,url
 龙华戏剧频道,url
 龙华洋片频道,url
 龙华偶像频道,url
-龙华电影频道,url
 华纳电影频道,url
 唐人亚太频道,url
 亚洲旅游频道,url
 探索频道频道,url
 野生地理频道,url
 凤凰香港频备,url
-香港卫视频道,url
 星空卫视频道,url
 无线华丽频粤,url
 无线直播频道,url
@@ -193,7 +195,6 @@ Now星影频道,url
 美亚电影频粤,url
 美亚电影频国,url
 天映频道马国,url
-重温经典频道,url
 Astr剧集频道,url
 动作电影频道,url
 家庭影院频道,url
@@ -207,7 +208,6 @@ RTHK-34频道,url
 RTHK-35频道,url
 香港面包频道,url
 香港_C+_频道,url
-澳门莲花频道,url
 澳视澳门频道,url
 澳视葡语频道,url
 澳门资讯频道,url
@@ -229,4 +229,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-04-02 06:03:47,http://122.117.71.103:8540/中天新闻.m3u8
+2026-04-03 06:02:06,http://122.117.71.103:8540/中天新闻.m3u8

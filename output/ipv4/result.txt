@@ -77,6 +77,7 @@ tvbs欢乐4Gtv,http://nmk.ioapk.com:5050/li-4gtv-4gtv068/index.m3u8?proxy=true
 台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
 中天新闻频道,http://122.117.71.103:8540/中天新闻.m3u8
 中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+重温经典频道,http://m.061899.xyz/mg/cwjd
 中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://f13h.mine.nu/sat/tv331
 
@@ -195,7 +196,6 @@ Now星影频道,url
 美亚电影频粤,url
 美亚电影频国,url
 天映频道马国,url
-重温经典频道,url
 Astr剧集频道,url
 动作电影频道,url
 家庭影院频道,url
@@ -229,4 +229,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2026-07-04 06:34:10,http://122.117.71.103:8540/中天新闻.m3u8
+2026-07-05 06:28:08,http://122.117.71.103:8540/中天新闻.m3u8
